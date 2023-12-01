@@ -1,6 +1,6 @@
 module github.com/vikiea/registry
 
-go 1.20
+go 1.18
 
 require (
 	github.com/nacos-group/nacos-sdk-go/v2 v2.2.3
@@ -38,7 +38,7 @@ require (
 	golang.org/x/text v0.11.0 // indirect
 	golang.org/x/time v0.1.0 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
-	google.golang.org/grpc v1.56.0 // indirect
+	google.golang.org/grpc v1.54.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/ini.v1 v1.66.2 // indirect
